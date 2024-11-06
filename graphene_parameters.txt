@@ -1,0 +1,8 @@
+## important parameters
+file	graphene_simu_reshaped.npy
+method	ssb
+aperture	0.03
+stepsize	0.2
+voltage	60.0
+rotation	0
+threshold	0.3
